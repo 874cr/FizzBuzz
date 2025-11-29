@@ -122,12 +122,5 @@ dist
 
 # db
 *.db
-# 以下を追記
-.progate
-_tests_
-src
-/node_modules
-package-lock.json
-package.json
-LICENSE
+
 
